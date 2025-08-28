@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1749890617190,
+      "tag": "0000_strong_vin_gonzales",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1753709076620,
+      "tag": "0001_silent_shaman",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1754887822130,
+      "tag": "0002_acoustic_rhino",
+      "breakpoints": true
+    }
+  ]
+}
